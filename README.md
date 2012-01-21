@@ -1,0 +1,3 @@
+Sinatra Application Template
+============================
+
